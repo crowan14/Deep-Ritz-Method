@@ -6,4 +6,4 @@ $$ \Pi_{1D} = \int \frac{1}{2}\Big(\frac{\partial u}{\partial x}\Big)^2 - f(x) u
 
 $$ \Pi_{2D} = \int \frac{1}{2} \frac{\partial u}{\partial x_i} \frac{\partial u}{\partial x_i} - f(x_1,x_2) u d\Omega $$ 
 
-These files could be helpful for anyone looking to get started using Pytorch to solve differential equations.
+These files could be helpful for anyone looking to get started using Pytorch to solve differential equations with an energy method.
